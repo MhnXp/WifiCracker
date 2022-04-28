@@ -78,8 +78,8 @@ if "1" in number:
         password = password.strip("\n")
         print(color.RED+"Testing : {}".format(password))
         if testwifi(target.ssid , password) : # Test for connection using password
-            # Beep(700 , 500) # Boooooghhh (just for windows)
-            # Beep(1000 , 500) # BOOOOOOGHHHHHHH :|  (just for windows)
+            Beep(700 , 500) # Boooooghhh (just for windows)
+            Beep(1000 , 500) # BOOOOOOGHHHHHHH :|  (just for windows)
             print("-" *30)
             print(color.GREEN+"PASSWORD : {}".format(password))
             print("-" *30)
