@@ -3,7 +3,7 @@ This tool gives you a wifi password by cracking the password
 ![Program Environment](https://www.uplooder.net/img/image/89/b881027b9f46b22a41046145f369e4a1/Screenshot-(9).png)
 
 # How To Installition
-
+* ` https://github.com/MhnXp/WifiCracker.git `
 * `pip install comtypes`
 * `pip install pywifi`
 * `pip install -r requirments.txt`
