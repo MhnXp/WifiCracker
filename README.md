@@ -7,7 +7,6 @@ This tool gives you a wifi password by cracking the password
 * `pip install comtypes`
 * `pip install pywifi`
 * `pip install -r requirments.txt`
-* `https://github.com/MhnXp/WifiCracker `
 * `cd WiFi Cracker `
 * `python wifi-cracker.py `
 
