@@ -24,10 +24,7 @@ The system beeps after your device password is found by your system
 You can create a list password in the application file and enter its name
 
 # Tested 
-* Kali
-* Windows 
-*,,,
-
+* JUST WINDOWS
 
 Good luck
 
