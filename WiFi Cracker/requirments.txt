@@ -1,0 +1,4 @@
+comtypes
+pywifi
+colorama 
+os
